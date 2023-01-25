@@ -1,1 +1,1 @@
-# WebApplication1
+# Demo project (ASP.NET MVC)
